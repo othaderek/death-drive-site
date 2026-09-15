@@ -1,0 +1,748 @@
+{
+  "intakeRoot": "..",
+  "widths": {
+    "still": [
+      480,
+      960,
+      1440,
+      1920,
+      2560
+    ],
+    "logo": [
+      320,
+      480,
+      640
+    ],
+    "icon": [
+      32,
+      180,
+      512
+    ],
+    "share": [
+      1200
+    ]
+  },
+  "assets": {
+    "brand-logo-primary-white": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/DDP Assets/04 Finals/Logo Suite/Primary/DDP_Primary_White.png",
+      "sha256": "3c6760045cd9777fd4104d69097ab24973a5f19a4f31088e5640e06ee688ce55",
+      "role": "logo",
+      "assumeSrgb": true,
+      "approved": true,
+      "note": "Final logo suite (04 Finals). Untagged pure-white mark on transparency; sRGB asserted."
+    },
+    "brand-icon-monogram": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/DDP Assets/04 Finals/Logo Suite/Monogram/DDP_Monogram_White.png",
+      "sha256": "e1176c746d9a79942085af6cd51263faab3917595f86920cab20d92c6f9ab65d",
+      "role": "icon",
+      "scale": 0.72,
+      "approved": true,
+      "note": "Final monogram, white, centred unaltered on a black square for favicon/touch icon."
+    },
+    "brand-share-card": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/DDP Assets/04 Finals/Logo Suite/Primary/DDP_Primary_White.png",
+      "sha256": "3c6760045cd9777fd4104d69097ab24973a5f19a4f31088e5640e06ee688ce55",
+      "role": "share",
+      "scale": 0.5,
+      "approved": true,
+      "note": "Primary logo, white, centred unaltered on black for social previews of pages without a film still."
+    },
+    "babygirl-01": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Babygirl/babygirl 1.jpg",
+      "sha256": "6e086336a09820f5b5bce32f4404c11aa7ce62de9c5972442ac1a652e13d2180",
+      "role": "still",
+      "project": "babygirl",
+      "crop": [
+        0,
+        0,
+        3456,
+        1924
+      ]
+    },
+    "babygirl-02": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Babygirl/babygirl 2.jpg",
+      "sha256": "435396171cde97aabc1b560dc93521a5c44b89db019aa02a6cb5fa2f6bb305ba",
+      "role": "still",
+      "project": "babygirl",
+      "crop": [
+        0,
+        0,
+        3456,
+        1935
+      ]
+    },
+    "babygirl-03": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Babygirl/babygirl 3.jpg",
+      "sha256": "0efdcb232732384a76fa7ed7aa1a114db30ee8ce55fef4f6c06640d83b652b98",
+      "role": "still",
+      "project": "babygirl",
+      "crop": [
+        0,
+        1,
+        3456,
+        1945
+      ]
+    },
+    "babygirl-04": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Babygirl/babygirl 4.jpg",
+      "sha256": "fbf96f5bc8ff7d102fd2d69ed45afb36021f37be7b4c1c8649efce66f3aea033",
+      "role": "still",
+      "project": "babygirl",
+      "crop": [
+        0,
+        1,
+        3456,
+        1944
+      ]
+    },
+    "babygirl-05": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Babygirl/babygirl 5.jpg",
+      "sha256": "cf1a2c16927ae605f58cf18601ca41c7d8edaf0143ea091a793e78e9d67f7ad4",
+      "role": "still",
+      "project": "babygirl",
+      "crop": [
+        0,
+        0,
+        3456,
+        1939
+      ]
+    },
+    "babygirl-06": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Babygirl/babygirl 6.jpg",
+      "sha256": "4b386ec59d94b313a2e767f7050f5a9e58c3640194ce2018f1aa2c616a9b000c",
+      "role": "still",
+      "project": "babygirl",
+      "crop": [
+        0,
+        0,
+        3456,
+        1941
+      ]
+    },
+    "babygirl-07": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Babygirl/babygirl 7.png",
+      "sha256": "58749933ead4f92ee943cd9f5a164a0a528bb985ea2c32739f26dbf6e862f4c4",
+      "role": "still",
+      "project": "babygirl",
+      "crop": [
+        0,
+        108,
+        3456,
+        2052
+      ]
+    },
+    "babygirl-08": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Babygirl/babygirl 8.png",
+      "sha256": "f3c42bc1c1338055bfd220200638c68cd1f669845b2a4f26eb2f8c4c73904657",
+      "role": "still",
+      "project": "babygirl",
+      "crop": [
+        0,
+        108,
+        3456,
+        2052
+      ]
+    },
+    "babygirl-09": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Babygirl/Babygirl 9.png",
+      "sha256": "18ae01f45a950a25cf9a587169bddfa2f186a47bfdf6a268376bfaef0e94e2aa",
+      "role": "still",
+      "project": "babygirl",
+      "crop": [
+        0,
+        108,
+        3456,
+        2052
+      ]
+    },
+    "domestic-01": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Domestic/Screenshot 2026-05-24 at 12.01.41 AM.jpg",
+      "sha256": "21f4222f2e39dde441456e36aeeff505afa108cd39cd3f3b05e4bb725e38cd17",
+      "role": "still",
+      "project": "domestic",
+      "crop": [
+        0,
+        4,
+        3456,
+        2079
+      ]
+    },
+    "domestic-02": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Domestic/Screenshot 2026-08-10 at 7.03.38 PM.jpg",
+      "sha256": "76266c79bf8a40a49770dd3e28fd95d582fe2c42b6256bf382f800092c590437",
+      "role": "still",
+      "project": "domestic",
+      "crop": [
+        0,
+        4,
+        3456,
+        2078
+      ]
+    },
+    "domestic-03": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Domestic/Screenshot 2026-08-10 at 7.07.47 PM.jpg",
+      "sha256": "fc7bd7f93e5552e0c925308e1e1c72811f53154272fdd06264fe1819a195827e",
+      "role": "still",
+      "project": "domestic",
+      "crop": [
+        0,
+        2,
+        3456,
+        2077
+      ]
+    },
+    "domestic-04": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Domestic/Screenshot 2026-08-10 at 7.26.44 PM.jpg",
+      "sha256": "6d8694df1d6287de143502133b82f192d252676122d2ae8776225b45e4eb79bf",
+      "role": "still",
+      "project": "domestic",
+      "crop": [
+        0,
+        4,
+        3450,
+        2078
+      ]
+    },
+    "domestic-05": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Domestic/Screenshot 2026-08-10 at 7.28.37 PM.jpg",
+      "sha256": "e7efdaa7aa483f9c09f09b99c00d6316e65d22e48654c72fc65f109fb52ff584",
+      "role": "still",
+      "project": "domestic",
+      "crop": [
+        0,
+        6,
+        3456,
+        2074
+      ]
+    },
+    "domestic-06": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Domestic/Screenshot 2026-08-10 at 7.30.05 PM.jpg",
+      "sha256": "575822922167968f7596c1df0f7ee0146eff2af75b8724971e72fa2d941e7bee",
+      "role": "still",
+      "project": "domestic",
+      "crop": [
+        0,
+        2,
+        3456,
+        2054
+      ]
+    },
+    "domestic-07": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Domestic/Screenshot 2026-08-10 at 7.31.26 PM.jpg",
+      "sha256": "87181cabe2f34c32c990005ea16554f6518c9a5d85dbc962bf5e12f7754f304f",
+      "role": "still",
+      "project": "domestic",
+      "crop": [
+        0,
+        2,
+        3456,
+        2076
+      ]
+    },
+    "domestic-08": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Domestic/Screenshot 2026-08-10 at 9.27.15 PM.jpg",
+      "sha256": "3189c11eebf27223733df84aafa03b638b8d4351af6078f5bffb5daff902de39",
+      "role": "still",
+      "project": "domestic",
+      "crop": [
+        0,
+        6,
+        3456,
+        2080
+      ]
+    },
+    "domestic-09": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Domestic/Screenshot 2026-08-10 at 9.30.04 PM.jpg",
+      "sha256": "c97aaf7d1a4f72858eb85d70d31fb416116140fb11be5062c4a4af842e094115",
+      "role": "still",
+      "project": "domestic",
+      "crop": [
+        0,
+        2,
+        3456,
+        2076
+      ]
+    },
+    "no-fly-list-01": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/No Fly List/NFL 1.png",
+      "sha256": "aa303fa020c33a71c85e9c567481d7b3cf2141c5a59842f8cdf4657d81e91390",
+      "role": "still",
+      "project": "no-fly-list",
+      "crop": [
+        0,
+        0,
+        3168,
+        1664
+      ]
+    },
+    "no-fly-list-02": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/No Fly List/NFL 2.png",
+      "sha256": "8070213ee189b510947b719560e1b9578adb5fab9f571d5e7ef62c559a2f5ca2",
+      "role": "still",
+      "project": "no-fly-list",
+      "crop": [
+        0,
+        0,
+        3158,
+        1658
+      ]
+    },
+    "no-fly-list-03": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/No Fly List/NFL 3 .png",
+      "sha256": "6f2deef0dcc7a1493c9e68142735881688e8cb7861b2b952b491c74473fb6057",
+      "role": "still",
+      "project": "no-fly-list",
+      "crop": [
+        0,
+        0,
+        3154,
+        1656
+      ]
+    },
+    "no-fly-list-04": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/No Fly List/NFL 4.png",
+      "sha256": "ae2d92cdec404e700f6e41220551a8ac71189a01353d3e26e543ceea28bd6acd",
+      "role": "still",
+      "project": "no-fly-list",
+      "crop": [
+        0,
+        0,
+        3158,
+        1656
+      ]
+    },
+    "no-fly-list-05": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/No Fly List/NFL 5.png",
+      "sha256": "bd9682fae17321937e791acc1ca96f361deb1e8365d6c9aa02233958e70eac0e",
+      "role": "still",
+      "project": "no-fly-list",
+      "crop": [
+        0,
+        0,
+        3154,
+        1652
+      ]
+    },
+    "no-fly-list-06": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/No Fly List/NFL 6.png",
+      "sha256": "9d319dd32db2b13da7b84aee53cb2f87761b8a81a1fe8c03aece30d13ee73810",
+      "role": "still",
+      "project": "no-fly-list",
+      "crop": [
+        0,
+        0,
+        3158,
+        1662
+      ]
+    },
+    "no-fly-list-07": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/No Fly List/NFL 7.png",
+      "sha256": "c660af7967a5a6f6ecc55c3a8f3686acb486abaa449e605cc17d9902aa87b7c9",
+      "role": "still",
+      "project": "no-fly-list",
+      "crop": [
+        0,
+        0,
+        3154,
+        1662
+      ]
+    },
+    "no-fly-list-08": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/No Fly List/NFL 8.png",
+      "sha256": "f01c23854238e64b81e6c8a1f2fbb1178859dbc2fc2f29896954104148d15e11",
+      "role": "still",
+      "project": "no-fly-list",
+      "crop": [
+        0,
+        0,
+        3156,
+        1660
+      ]
+    },
+    "no-fly-list-09": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/No Fly List/NFL 9.png",
+      "sha256": "92799980c2a8a2e52a6d05a559a577e23073173d85d06879fe473c7dee2eaa24",
+      "role": "still",
+      "project": "no-fly-list",
+      "crop": [
+        0,
+        0,
+        3148,
+        1660
+      ]
+    },
+    "the-executive-assistant-01": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/The Executive Assistant/TEA 1.png",
+      "sha256": "54de78261b4cf7a41da0da9ad95fe1d455e1c70eaa904d126dbbb13d6ceb29ae",
+      "role": "still",
+      "project": "the-executive-assistant",
+      "crop": [
+        0,
+        0,
+        2874,
+        2144
+      ]
+    },
+    "the-executive-assistant-02": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/The Executive Assistant/TEA 2.png",
+      "sha256": "80e2c9078a4cd1b570a1bf8f74517bc271a902d8261f56ff337cb7566aaa7a91",
+      "role": "still",
+      "project": "the-executive-assistant",
+      "crop": [
+        0,
+        0,
+        2872,
+        2148
+      ]
+    },
+    "the-executive-assistant-03": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/The Executive Assistant/TEA 3.png",
+      "sha256": "68660d2946b62c658f1b4b1111e3127b3eed1121c30003961458ac1c2729aa21",
+      "role": "still",
+      "project": "the-executive-assistant",
+      "crop": [
+        0,
+        0,
+        2864,
+        2138
+      ]
+    },
+    "the-executive-assistant-04": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/The Executive Assistant/TEA 4.png",
+      "sha256": "0cfeff5da79223b8c7d1323f2c1e137fa83d1b4dbfa5f3d7cc2c8e4d4414d931",
+      "role": "still",
+      "project": "the-executive-assistant",
+      "crop": [
+        0,
+        0,
+        2870,
+        2144
+      ]
+    },
+    "the-executive-assistant-05": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/The Executive Assistant/TEA 5.png",
+      "sha256": "c6574b333fb48fe77f353f2126a3ff77689b17ae913250bf5ae9e74e262114b4",
+      "role": "still",
+      "project": "the-executive-assistant",
+      "crop": [
+        0,
+        0,
+        2876,
+        2144
+      ]
+    },
+    "the-executive-assistant-06": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/The Executive Assistant/TEA 6.png",
+      "sha256": "4abe04ff19b3d62974618454b3e353e1c926f32fe287a446b7fa0a5f55e8ce95",
+      "role": "still",
+      "project": "the-executive-assistant",
+      "crop": [
+        0,
+        0,
+        2868,
+        2142
+      ]
+    },
+    "the-executive-assistant-07": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/The Executive Assistant/TEA 7.png",
+      "sha256": "111ccb41a617188677912c8d7caf97bcd07f883ec895db009ed8fb15526b94fa",
+      "role": "still",
+      "project": "the-executive-assistant",
+      "crop": [
+        0,
+        0,
+        2876,
+        2150
+      ]
+    },
+    "the-executive-assistant-08": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/The Executive Assistant/TEA 8.png",
+      "sha256": "125e405e200bd4dc97139d01d7467186913803748d4e0d3068b816ac75b934c8",
+      "role": "still",
+      "project": "the-executive-assistant",
+      "crop": [
+        0,
+        0,
+        2886,
+        2148
+      ]
+    },
+    "tips-up-01": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips8.jpg",
+      "sha256": "f97bb25e3aa292044656ea9e908b205b291eaea667aabbd1e87c25cd1b1ca4a4",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        120,
+        0,
+        3720,
+        2160
+      ]
+    },
+    "tips-up-02": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips 4.jpg",
+      "sha256": "4bbdacb8134b1a4f5328ee3fff939c364e3fbf709fcfe0940630a026e89a3fd8",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        120,
+        0,
+        3720,
+        2160
+      ]
+    },
+    "tips-up-03": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips 6.jpg",
+      "sha256": "50ffaef632d839cb3bcdb73a7f1f93258f3e5972850316d43d25d005cd833196",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        0,
+        0,
+        3569,
+        2160
+      ]
+    },
+    "tips-up-04": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips 7.jpg",
+      "sha256": "8e1c8e9160acadae5c0d5335bc5de6b3b0c65e57048d8929ab10a816bf35ea1e",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        3,
+        0,
+        3603,
+        2160
+      ]
+    },
+    "tips-up-05": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips 8.jpg",
+      "sha256": "b689ef2b2b2d382d13d758d5cc7dea085ccaef98975cd3b1643ddaa2caee1333",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        120,
+        0,
+        3720,
+        2160
+      ]
+    },
+    "tips-up-06": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips 9.jpg",
+      "sha256": "a8357a381c902de342e300b255fa152dfe4e0f786bb870b8647b013a625f0dae",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        120,
+        0,
+        3720,
+        2160
+      ]
+    },
+    "tips-up-07": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips 10.jpg",
+      "sha256": "d0a27ae0801337db48db7d44085ab813f829271945e312d8c4b902d44049873e",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        120,
+        0,
+        3720,
+        2160
+      ]
+    },
+    "tips-up-08": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips 11.jpg",
+      "sha256": "a80e1c575b303c96f30640fdfd33ba409130f31a5a1716465f311e5028b211c2",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        120,
+        0,
+        3720,
+        2160
+      ]
+    },
+    "tips-up-09": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/Tips up 1.jpg",
+      "sha256": "36db842336f92a440ac8d5ea991626ba70c65fbd9b57bc617a5584b63ea6bd6d",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        5,
+        0,
+        3605,
+        2160
+      ]
+    },
+    "tips-up-10": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips up 2.jpg",
+      "sha256": "66884d7e89b0477197a54fc6c5174124bfb0d334482e0f8e0b0a5c279c2ec2b2",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        0,
+        0,
+        3590,
+        2160
+      ]
+    },
+    "tips-up-11": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Tips Up!/tips up 3.jpg",
+      "sha256": "cbf0c39694e3501acf7aa80023f95280b446bb879a2ce3534da93a1bb17840ba",
+      "role": "still",
+      "project": "tips-up",
+      "crop": [
+        0,
+        0,
+        3600,
+        2160
+      ]
+    },
+    "wakelee-bangkok-01": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Bangkok/Screenshot 2026-09-15 at 3.32.29 PM.png",
+      "sha256": "5545719211013199528f03a2286fb7db85051bd75c444d010577b312129cf5e0",
+      "role": "still",
+      "project": "wakelee-bangkok",
+      "crop": [
+        2,
+        0,
+        2594,
+        1952
+      ]
+    },
+    "wakelee-bangkok-02": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Bangkok/Screenshot 2026-09-15 at 3.33.42 PM.png",
+      "sha256": "ff710473cb91174e0700b043362b71eee532934bebbfa24d3d25e3a1bda1c029",
+      "role": "still",
+      "project": "wakelee-bangkok",
+      "crop": [
+        3,
+        0,
+        2597,
+        1944
+      ]
+    },
+    "wakelee-bangkok-03": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Bangkok/Screenshot 2026-09-15 at 3.35.07 PM.png",
+      "sha256": "988540074def8ca85a3388cde711fdf3f1be18b6beccb2cd93b369c4872763ba",
+      "role": "still",
+      "project": "wakelee-bangkok",
+      "crop": [
+        0,
+        0,
+        2590,
+        1938
+      ]
+    },
+    "wakelee-bangkok-04": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Bangkok/Screenshot 2026-09-15 at 3.35.52 PM.png",
+      "sha256": "acf7352cf58acf1b962c58c73eab7dd69e815908be3f3c0d40869b72eccff1b7",
+      "role": "still",
+      "project": "wakelee-bangkok",
+      "crop": [
+        4,
+        0,
+        2596,
+        1952
+      ]
+    },
+    "wakelee-bangkok-05": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Bangkok/Screenshot 2026-09-15 at 3.38.29 PM.png",
+      "sha256": "4937c7e15c25462cc01883d2819a4dc38932b19cd2530d7b9a42edc6e0b84e59",
+      "role": "still",
+      "project": "wakelee-bangkok",
+      "crop": [
+        0,
+        0,
+        2608,
+        1948
+      ]
+    },
+    "wakelee-bangkok-06": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Bangkok/Screenshot 2026-09-15 at 3.41.15 PM.png",
+      "sha256": "3ca745bbb58107d1c70407664ac363d908ba365ebed076edf2c34d0ddb391772",
+      "role": "still",
+      "project": "wakelee-bangkok",
+      "crop": [
+        2,
+        0,
+        2594,
+        1946
+      ]
+    },
+    "wakelee-garys-outcome-01": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Gary's Outcome/Screenshot 2026-09-15 at 3.25.52 PM.png",
+      "sha256": "8e400385b28f34f5a476c4697cbc6191ffbccb604dfb48caf2299791076b16cd",
+      "role": "still",
+      "project": "wakelee-garys-outcome",
+      "crop": [
+        0,
+        0,
+        3456,
+        1830
+      ]
+    },
+    "wakelee-garys-outcome-02": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Gary's Outcome/Screenshot 2026-09-15 at 3.27.56 PM.png",
+      "sha256": "953afbfba6737240ad9bfd51bbb0d8af599663b5cbda75066d1da62795171dc2",
+      "role": "still",
+      "project": "wakelee-garys-outcome",
+      "crop": [
+        0,
+        0,
+        3456,
+        1832
+      ]
+    },
+    "wakelee-garys-outcome-03": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Gary's Outcome/Screenshot 2026-09-15 at 3.29.11 PM.png",
+      "sha256": "2871244d47bd25bebe970b53285652b0e0d1336b574058c7768f1113edbc0b87",
+      "role": "still",
+      "project": "wakelee-garys-outcome",
+      "crop": [
+        0,
+        0,
+        3454,
+        1830
+      ]
+    },
+    "wakelee-garys-outcome-04": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Gary's Outcome/Screenshot 2026-09-15 at 3.29.38 PM.png",
+      "sha256": "18379e1ffad02385176576638ed3862b91be461799524afaa930261d0b1896ac",
+      "role": "still",
+      "project": "wakelee-garys-outcome",
+      "crop": [
+        0,
+        2,
+        3454,
+        1826
+      ]
+    },
+    "wakelee-garys-outcome-05": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Wakelee/Gary's Outcome/Screenshot 2026-09-15 at 3.29.54 PM.png",
+      "sha256": "b6063bf2811b2400817b21c1f057a223a22996227239d33edb1c49ce769400f6",
+      "role": "still",
+      "project": "wakelee-garys-outcome",
+      "crop": [
+        0,
+        0,
+        3456,
+        1828
+      ]
+    },
+    "midnight-programming-title": {
+      "source": "ddp-2026-implementation/DDP-ASSETS/Midnight Programming/Screenshot 2026-06-15 at 2.48.10 PM.png",
+      "sha256": "4526d96cf7c01011318596d323dcf47196494ce688f888a326476b244ef4d0fe",
+      "role": "still",
+      "project": "midnight-programming",
+      "crop": [
+        0,
+        0,
+        2878,
+        2168
+      ],
+      "note": "Series title artwork; preserve the full composition and lettering."
+    }
+  }
+}

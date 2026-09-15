@@ -1,24 +1,39 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
-
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+node_modules/
+.preview/
+.preview.*/
+dist/
+dist.*/
+.test-output/
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+.env
+.env.*
+!.env.example
+
+# Private source material: raw drops, masters, archives and intake working files never enter Git.
+# Only generated web derivatives (assets/web/) and the content/mapping JSON are tracked.
+/DDP-ASSETS/
+assets/masters/
+assets/intake/
+assets/web/*.json
+*.zip
+/*.jpg
+/*.jpeg
+/*.png
+/*.tif
+/*.tiff
+/*.heic
+/*.psd
+/*.eps
+/*.ai
+/*.pdf
+/*.mov
+/*.mp4
+
+# Local references, reports and editor settings
+references/
+artifacts/
+.*/
+!.github/
+__pycache__/
+/docs/reference-asset-inventory.json
+/docs/ASSET-MAPPING.md

@@ -1,0 +1,44 @@
+{
+  "name": "Death Drive Pictures",
+  "domain": "https://www.deathdrivepictures.com",
+  "description": "Death Drive Pictures is a Philadelphia-based production company making independent films, series, and music videos.",
+  "tagline": "Films, series & music videos · Philadelphia",
+  "launchApproved": true,
+  "brandingApproved": true,
+  "logo": "brand-logo-primary-white",
+  "favicon": "brand-icon-monogram",
+  "shareImage": "brand-share-card",
+  "emails": [
+    "otha@deathdrivepictures.com",
+    "leah@deathdrivepictures.com"
+  ],
+  "links": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/deathdrivepictures"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@DeathDrivePictures"
+    }
+  ],
+  "about": [
+    "Death Drive Pictures is a Philadelphia-based production company making independent films, series, and music videos."
+  ],
+  "featured": [
+    "domestic",
+    "the-executive-assistant",
+    "midnight-programming",
+    "tips-up",
+    "babygirl",
+    "wakelee-bangkok",
+    "wakelee-garys-outcome",
+    "no-fly-list"
+  ],
+  "selected": [
+    "domestic",
+    "the-executive-assistant",
+    "wakelee-bangkok",
+    "no-fly-list"
+  ]
+}

@@ -1,0 +1,484 @@
+[
+  {
+    "id": "domestic",
+    "slug": "domestic",
+    "kind": "film",
+    "title": "Domestic",
+    "format": "Short film",
+    "status": "published",
+    "copyApproved": true,
+    "hero": {
+      "image": "domestic-01",
+      "alt": "In dim light, a man in a pale sweater looks toward a wet-haired woman with blood on her face and blue top",
+      "desktopPosition": "52% 35%",
+      "cardPosition": "52% 35%"
+    },
+    "gallery": [
+      {
+        "image": "domestic-05",
+        "alt": "A woman with long dark hair in a pale blue cardigan sits by a window, holding a knife upright on a desk"
+      },
+      {
+        "image": "domestic-03",
+        "alt": "A man with collar-length dark hair in a brown shirt sits at a table with noodles, candles and a mantel behind"
+      },
+      {
+        "image": "domestic-02",
+        "alt": "A raised open hand with a small red spot on the thumb, against a blurred grey patterned wall"
+      },
+      {
+        "image": "domestic-07",
+        "alt": "A woman with long dark hair and a white sleeveless top smiles and glances sideways, a lit floor lamp behind her"
+      },
+      {
+        "image": "domestic-04",
+        "alt": "A raised fist with a ring on the little finger grips a slender blade against a dim grey wall"
+      },
+      {
+        "image": "domestic-01",
+        "alt": "In dim light, a man in a pale sweater looks toward a wet-haired woman with blood on her face and blue top"
+      },
+      {
+        "image": "domestic-06",
+        "alt": "Two hands, one at a striped blue shirt cuff, open a pair of silver scissors against a blurred patterned wall"
+      },
+      {
+        "image": "domestic-08",
+        "alt": "Low view through a doorway of legs in white frilled socks and black platform Mary Jane shoes on a wooden floor"
+      },
+      {
+        "image": "domestic-09",
+        "alt": "A short-haired figure in a pale sweater lies prone on the floor as someone in a blue dress stands in the doorway"
+      }
+    ],
+    "links": [],
+    "logline": "When her partner refuses to indulge her erotic fantasy — being murdered in cold blood — a numb yuppie finds a stranger online who will, and must decide, hands at her throat, whether she meant it.",
+    "credits": [
+      {
+        "role": "Written and directed by",
+        "name": "Otha Derek Hernandez Peña"
+      },
+      {
+        "role": "Produced by",
+        "name": "Otha Derek Hernandez Peña and Leah Claire Borrie"
+      }
+    ]
+  },
+  {
+    "id": "babygirl",
+    "slug": "babygirl",
+    "kind": "film",
+    "title": "Babygirl",
+    "status": "published",
+    "copyApproved": true,
+    "hero": {
+      "image": "babygirl-07",
+      "alt": "Close-up of a wide-eyed woman with dark hair, burgundy lipstick and a patterned jacket against a blurred, warmly lit interior",
+      "desktopPosition": "35% 30%",
+      "cardPosition": "35% 40%"
+    },
+    "gallery": [
+      {
+        "image": "babygirl-01",
+        "alt": "A woman in a red T-shirt holds a baby in a blue carrier while dialing a mint rotary phone in a wood-cabinet kitchen"
+      },
+      {
+        "image": "babygirl-08",
+        "alt": "A wood-paneled station wagon with a woman in red at the wheel sits outside a chrome and stone building"
+      },
+      {
+        "image": "babygirl-06",
+        "alt": "A woman in a red T-shirt and jeans sits on a car's leather bench seat beside the steering wheel, looking down"
+      },
+      {
+        "image": "babygirl-03",
+        "alt": "In a diner booth, a woman in a patterned jacket gestures with a fork beside a man in a black fedora"
+      },
+      {
+        "image": "babygirl-07",
+        "alt": "Close-up of a wide-eyed woman with dark hair, burgundy lipstick and a patterned jacket against a blurred, warmly lit interior"
+      },
+      {
+        "image": "babygirl-02",
+        "alt": "A bearded man in a leather jacket and a woman in red stand face to face, hands on hips, before wooden doors"
+      },
+      {
+        "image": "babygirl-04",
+        "alt": "A woman in a red T-shirt leans toward a girl in white, a hand on her shoulder, in a rose-wallpapered room"
+      },
+      {
+        "image": "babygirl-09",
+        "alt": "A bearded man in a leather jacket holds a sliding door handle in a sunlit room with a crucifix on the wall"
+      },
+      {
+        "image": "babygirl-05",
+        "alt": "Extreme close-up of a woman with dark hair, lavender eye shadow and hoop earrings grinning widely at the camera"
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "Directed by",
+        "name": "Leah Claire Borrie"
+      },
+      {
+        "role": "Produced by",
+        "name": "Otha Derek Hernandez Peña and Leah Claire Borrie"
+      }
+    ],
+    "watchUrl": "https://youtu.be/pw_GO4FzDPk"
+  },
+  {
+    "id": "no-fly-list",
+    "slug": "no-fly-list",
+    "kind": "music-video",
+    "title": "No Fly List",
+    "format": "Music video",
+    "status": "published",
+    "copyApproved": true,
+    "hero": {
+      "image": "no-fly-list-02",
+      "alt": "A bearded man lit red in the foreground, with a woman in a red dress on a tinsel-curtained stage behind",
+      "desktopPosition": "50% 45%",
+      "cardPosition": "50% 50%"
+    },
+    "gallery": [
+      {
+        "image": "no-fly-list-02",
+        "alt": "A bearded man lit red in the foreground, with a woman in a red dress on a tinsel-curtained stage behind"
+      },
+      {
+        "image": "no-fly-list-01",
+        "alt": "A woman with curly dark hair, gold eyeshadow and hoop earrings throws her head back, mouth wide open, against a red wall"
+      },
+      {
+        "image": "no-fly-list-04",
+        "alt": "A man with dark curly hair in a white shirt plays an electric guitar beneath a dartboard in a dim, warm-lit room"
+      },
+      {
+        "image": "no-fly-list-03",
+        "alt": "A woman's face with gold eyeshadow, long lashes and hoop earrings, lit by a narrow pool of light in darkness"
+      },
+      {
+        "image": "no-fly-list-05",
+        "alt": "A man in a dark suit and loose tie plays a white bass guitar beside a pool table under purple-blue light"
+      },
+      {
+        "image": "no-fly-list-07",
+        "alt": "Close-up of a hand strumming a gold-sparkle electric guitar with a red tortoiseshell pickguard against black"
+      },
+      {
+        "image": "no-fly-list-06",
+        "alt": "A woman with curly dark hair, glittering eye makeup and hoop earrings looks toward the camera in blue light"
+      },
+      {
+        "image": "no-fly-list-08",
+        "alt": "Two pairs of feet face each other on a reddish-brown floor: white Mary Jane shoes and brown tasselled loafers, with scattered ribbon"
+      },
+      {
+        "image": "no-fly-list-09",
+        "alt": "Credit text on the glowing turquoise screen of a CRT television set in a dark room"
+      }
+    ],
+    "credits": [
+      {
+        "role": "Directed by",
+        "name": "Leah Claire Borrie"
+      },
+      {
+        "role": "Produced by",
+        "name": "Otha Derek Hernandez Peña and Leah Claire Borrie"
+      }
+    ],
+    "links": [],
+    "watchUrl": "https://youtu.be/gVXB76fUSaA"
+  },
+  {
+    "id": "the-executive-assistant",
+    "slug": "the-executive-assistant",
+    "kind": "film",
+    "title": "The Executive Assistant",
+    "status": "published",
+    "copyApproved": true,
+    "hero": {
+      "image": "the-executive-assistant-01",
+      "alt": "A dark-haired woman with bangs fills the left of frame while a woman with a phone stares open-mouthed across an office cubicle",
+      "desktopPosition": "50% 35%",
+      "cardPosition": "50% 35%"
+    },
+    "gallery": [
+      {
+        "image": "the-executive-assistant-01",
+        "alt": "A dark-haired woman with bangs fills the left of frame while a woman with a phone stares open-mouthed across an office cubicle"
+      },
+      {
+        "image": "the-executive-assistant-03",
+        "alt": "A woman with long brown hair and a rust-red satin blouse sits at an office desk beside a black keyboard"
+      },
+      {
+        "image": "the-executive-assistant-04",
+        "alt": "A woman in a dark blazer and a woman with dark bangs study a sheet of paper over a cubicle wall"
+      },
+      {
+        "image": "the-executive-assistant-07",
+        "alt": "A woman in sunglasses, a grey pinafore dress and knee-high boots walks down a sunny brick sidewalk holding a paper cup"
+      },
+      {
+        "image": "the-executive-assistant-02",
+        "alt": "A dark-haired woman with bangs presses a curled finger to her lips behind a blurred, smiling woman in a grey blazer"
+      },
+      {
+        "image": "the-executive-assistant-05",
+        "alt": "A woman with pulled-back hair and a dark polo shirt looks over her shoulder with a furrowed brow against a pale wall"
+      },
+      {
+        "image": "the-executive-assistant-06",
+        "alt": "A woman in a black polo seen from behind faces three women in a narrow office hallway beside a cubicle"
+      },
+      {
+        "image": "the-executive-assistant-08",
+        "alt": "Close-up of a woman's lower face as a thin strand of saliva drips from her lip toward a stained paper cup"
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "Directed by",
+        "name": "Leah Claire Borrie"
+      },
+      {
+        "role": "Produced by",
+        "name": "Otha Derek Hernandez Peña and Leah Claire Borrie"
+      }
+    ]
+  },
+  {
+    "id": "tips-up",
+    "slug": "tips-up",
+    "kind": "film",
+    "title": "Tips Up!",
+    "status": "published",
+    "copyApproved": true,
+    "hero": {
+      "image": "tips-up-10",
+      "alt": "A smiling woman in a pink ski suit and black fur hat crouches on skis over cotton snow against pale blue",
+      "desktopPosition": "50% 15%",
+      "cardPosition": "50% 50%"
+    },
+    "gallery": [
+      {
+        "image": "tips-up-10",
+        "alt": "A smiling woman in a pink ski suit and black fur hat crouches on skis over cotton snow against pale blue"
+      },
+      {
+        "image": "tips-up-01",
+        "alt": "A woman in a black fur hat and open pink jacket stands in a dim studio with a man in the background"
+      },
+      {
+        "image": "tips-up-03",
+        "alt": "A woman in glasses sits in shadow holding a magazine beside a candlelit vanity where one woman styles another's hair"
+      },
+      {
+        "image": "tips-up-09",
+        "alt": "A smiling woman with wavy blonde hair, black fur hat and teal eyeshadow in a pink and white jacket against pale blue"
+      },
+      {
+        "image": "tips-up-06",
+        "alt": "A man in a leather jacket with a cigarette in his mouth stands between two women against a white brick wall"
+      },
+      {
+        "image": "tips-up-04",
+        "alt": "A woman with blue eyeshadow and a black fur hat holds up a small white object as another woman combs her hair"
+      },
+      {
+        "image": "tips-up-11",
+        "alt": "A woman at a glowing light table, with a man and a woman in a fur hat before a wall of portraits"
+      },
+      {
+        "image": "tips-up-07",
+        "alt": "A woman with blue eye makeup in an open pink and white jacket stands in dim red light near a wall clock"
+      },
+      {
+        "image": "tips-up-02",
+        "alt": "Two women reflected in a bulb-lit vanity mirror, one fixing the other's hair, above a table crowded with makeup"
+      },
+      {
+        "image": "tips-up-08",
+        "alt": "A smiling woman with wavy blonde hair, teal eyeshadow and gold hoop earrings faces the camera against a pale blue backdrop"
+      },
+      {
+        "image": "tips-up-05",
+        "alt": "A blonde woman with eyes squeezed shut presses a crumpled paper towel to her mouth under magenta light"
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "Directed by",
+        "name": "Leah Claire Borrie"
+      },
+      {
+        "role": "Produced by",
+        "name": "Otha Derek Hernandez Peña and Leah Claire Borrie"
+      }
+    ],
+    "watchUrl": "https://youtu.be/6iM7PA3lySQ"
+  },
+  {
+    "id": "midnight-programming",
+    "slug": "midnight-programming",
+    "kind": "series",
+    "title": "Midnight Programming",
+    "format": "Anthology series",
+    "status": "published",
+    "copyApproved": true,
+    "logline": "Midnight Programming is a public-access show that exists only in the psychosphere, broadcasting in the middle of the night on a station you can reach only when you’re half asleep. A dreamy anthology of strange stories, it drifts through a mixed bag of genres, leaning toward horror, thriller, and absurd dark comedy.",
+    "gallery": [],
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/midnight.programming/"
+      }
+    ],
+    "hero": {
+      "image": "midnight-programming-title",
+      "alt": "An orange one-eyed figure above glowing blue Midnight Programming lettering against a dark, star-filled background.",
+      "desktopPosition": "50% 50%",
+      "cardPosition": "50% 50%"
+    },
+    "credits": [
+      {
+        "role": "Produced by",
+        "name": "Otha Derek Hernandez Peña and Leah Claire Borrie"
+      }
+    ]
+  },
+  {
+    "id": "our-father",
+    "slug": "our-father",
+    "kind": "episode",
+    "series": "midnight-programming",
+    "title": "Our Father",
+    "status": "published",
+    "copyApproved": true,
+    "logline": "A young woman creates a deity that frees her from the oppression of her father.",
+    "gallery": [],
+    "links": [],
+    "credits": [
+      {
+        "role": "Directed by",
+        "name": "Leah Claire Borrie"
+      },
+      {
+        "role": "Produced by",
+        "name": "Otha Derek Hernandez Peña and Leah Claire Borrie"
+      }
+    ]
+  },
+  {
+    "id": "wakelee-bangkok",
+    "slug": "bangkok",
+    "kind": "music-video",
+    "title": "Bangkok",
+    "artist": "Wakelee",
+    "artistSlug": "wakelee",
+    "format": "Music video",
+    "status": "published",
+    "copyApproved": true,
+    "hero": {
+      "image": "wakelee-bangkok-06",
+      "alt": "A singer in a yellow shirt plays guitar at a microphone, with a bassist and drummer behind him in a white studio.",
+      "desktopPosition": "60% 10%",
+      "cardPosition": "60% 10%"
+    },
+    "gallery": [
+      {
+        "image": "wakelee-bangkok-06",
+        "alt": "A singer in a yellow shirt plays guitar at a microphone, with a bassist and drummer behind him in a white studio."
+      },
+      {
+        "image": "wakelee-bangkok-04",
+        "alt": "A singer in a yellow shirt holds a microphone with a guitar at his waist, beside a bassist in a white studio."
+      },
+      {
+        "image": "wakelee-bangkok-03",
+        "alt": "A musician wearing glasses and a blue shirt plays bass at a microphone, with a drummer behind him."
+      },
+      {
+        "image": "wakelee-bangkok-02",
+        "alt": "A singer leans toward a microphone through a fisheye lens, with the band behind him."
+      },
+      {
+        "image": "wakelee-bangkok-05",
+        "alt": "A drummer sits at a drum kit in a white studio, seen from above through a fisheye lens."
+      },
+      {
+        "image": "wakelee-bangkok-01",
+        "alt": "The band performs in a white studio behind three colorful Bangkok titles."
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "Directed by",
+        "name": "Otha Derek Hernandez Peña"
+      },
+      {
+        "role": "Produced by",
+        "name": "Otha Derek Hernandez Peña and Leah Claire Borrie"
+      }
+    ],
+    "watchUrl": "https://youtu.be/KgLlENu63oY"
+  },
+  {
+    "id": "wakelee-garys-outcome",
+    "slug": "garys-outcome",
+    "kind": "music-video",
+    "title": "Gary's Outcome",
+    "artist": "Wakelee",
+    "artistSlug": "wakelee",
+    "format": "Music video",
+    "status": "published",
+    "copyApproved": true,
+    "hero": {
+      "image": "wakelee-garys-outcome-02",
+      "alt": "A singer wearing green leans toward a microphone, with a bassist and drummer performing behind him in a white studio.",
+      "desktopPosition": "65% 35%",
+      "cardPosition": "65% 35%"
+    },
+    "gallery": [
+      {
+        "image": "wakelee-garys-outcome-02",
+        "alt": "A singer wearing green leans toward a microphone, with a bassist and drummer performing behind him in a white studio."
+      },
+      {
+        "image": "wakelee-garys-outcome-03",
+        "alt": "A bassist, drummer and singer wearing green perform together in a white studio beside an orange amplifier."
+      },
+      {
+        "image": "wakelee-garys-outcome-01",
+        "alt": "A wide view of a white studio with two band members seated near a drum kit and another lying beside a guitar and microphone stands."
+      },
+      {
+        "image": "wakelee-garys-outcome-04",
+        "alt": "White handwritten Gary’s Outcome lettering and the Wakelee logo on a textured orange background."
+      },
+      {
+        "image": "wakelee-garys-outcome-05",
+        "alt": "A handwritten director credit appears against a pale textured background."
+      }
+    ],
+    "links": [],
+    "credits": [
+      {
+        "role": "Directed by",
+        "name": "Otha Derek Hernandez Peña"
+      },
+      {
+        "role": "Produced by",
+        "name": "Otha Derek Hernandez Peña and Leah Claire Borrie"
+      }
+    ],
+    "watchUrl": "https://youtu.be/CZK2OT7CT0U"
+  }
+]
