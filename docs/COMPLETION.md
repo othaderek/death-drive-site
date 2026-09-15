@@ -20,4 +20,4 @@ The test suite covers content validation, project routes, publication filtering,
 
 The production build includes all nine projects and 297 image files across 16 routes. Publication settings are enabled for the current release. The local preview adds review notices; the production build has canonical URLs and a sitemap for `https://www.deathdrivepictures.com`.
 
-Cloudflare Pages deployment and domain configuration are the next step. See [DEPLOYMENT.md](DEPLOYMENT.md). Our Father's artwork can be added when available.
+The site is published at [www.deathdrivepictures.com](https://www.deathdrivepictures.com/) through the `death-drive-site` Cloudflare Pages project. Pushes to `main` in [othaderek/death-drive-site](https://github.com/othaderek/death-drive-site) trigger production builds. See [DEPLOYMENT.md](DEPLOYMENT.md). Our Father's artwork can be added when available.
